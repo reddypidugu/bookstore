@@ -1,0 +1,8 @@
+com/itnext/config/SwaggerConfig.class
+com/itnext/domain/repositories/BookRepository.class
+com/itnext/domain/entities/Book.class
+com/itnext/domain/repositories/CategoryRepository.class
+com/itnext/SpringRestApplication.class
+com/itnext/domain/entities/Author.class
+com/itnext/domain/repositories/AuthorRepository.class
+com/itnext/domain/entities/Category.class

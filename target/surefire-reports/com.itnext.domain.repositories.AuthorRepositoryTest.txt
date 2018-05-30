@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.itnext.domain.repositories.AuthorRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 88.254 sec - in com.itnext.domain.repositories.AuthorRepositoryTest
